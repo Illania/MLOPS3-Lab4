@@ -1,0 +1,4 @@
+,model,test_score
+0,ShapeletTransformClassifier,0.8
+1,TimeSeriesForestClassifier,0.8666666666666667
+2,KNeighborsTimeSeriesClassifier,0.8666666666666667
